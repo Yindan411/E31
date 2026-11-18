@@ -1,0 +1,12 @@
+# ---- Simulink / MATLAB 生成产物 ----
+*.slxc
+*.autosave
+*.asv
+slprj/
+codegen/
+*.mex*
+matlab_crash_dump*
+
+# ---- Windows 系统文件 ----
+Thumbs.db
+Desktop.ini
